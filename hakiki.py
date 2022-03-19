@@ -1,9 +1,9 @@
-# code by Yayan XD
-# my facebook ( https://www.facebook.com/KM39453 )
+# code by m37q-xxx
+# my facebook ( https://www.facebook.com/M37q83 )
 
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
-#      Coded By Yayan XD.
+#      Coded By m37q-xxx
 
 import os
 try:
